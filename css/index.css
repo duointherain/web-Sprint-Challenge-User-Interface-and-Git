@@ -233,4 +233,20 @@ footer nav a {
 }
 .boxes .box:nth-child(10){
     background-color: dodgerblue;
+    
+}
+/*learn more buttons*/
+#learn {
+    border: 2px solid black;
+    border-radius: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+/*bottom line class*/
+.line {
+
+    border-bottom: 1px solid black;
+}
+#two {
+    display: flex;
 }
