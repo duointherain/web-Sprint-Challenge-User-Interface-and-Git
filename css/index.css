@@ -266,3 +266,11 @@ flex-direction: column;
     display: flex;
 
 }
+#threea {
+    display: flex;
+    flex-direction: column;
+    }
+#threeb {
+     display: flex;
+    flex-direction: column;
+        }
