@@ -253,25 +253,33 @@ footer nav a {
 #twoa {
 display: flex;
 flex-direction: column;
+border-bottom: 2px dashed black;
+margin: 2rem, 4rem;
 }
 
 #twob{
     display: flex;
     flex-direction: column;
+    border-bottom: 2px dashed black;
+    margin: 2rem, 4rem;
 }
 
 
 #three{
 
     display: flex;
-    border-bottom: 1px solid black;
+    
 
 }
 #threea {
     display: flex;
     flex-direction: column;
+    border-bottom: 2px dashed black;
+    margin: 2rem, 4rem;
     }
 #threeb {
-     display: flex;
+    display: flex;
     flex-direction: column;
+    border-bottom: 2px dashed black;
+    margin: 2rem, 4rem;
         }
