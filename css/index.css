@@ -250,3 +250,19 @@ footer nav a {
 #two {
     display: flex;
 }
+#twoa {
+display: flex;
+flex-direction: column;
+}
+
+#twob{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#three{
+
+    display: flex;
+
+}
