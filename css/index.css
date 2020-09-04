@@ -243,9 +243,9 @@ footer nav a {
     border-radius: 5px;
 }
 /*bottom line class*/
-.line {
+#line {
 
-    border-bottom: 1px solid black;
+    border-bottom: 2px dashed black;
 }
 #two {
     display: flex;
@@ -264,6 +264,7 @@ flex-direction: column;
 #three{
 
     display: flex;
+    border-bottom: 1px solid black;
 
 }
 #threea {
